@@ -5,3 +5,6 @@
 ## Run: 
 python -m uvicorn main:app --reload
 
+
+This files is for updating database with recommendations results
+
