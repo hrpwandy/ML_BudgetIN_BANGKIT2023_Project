@@ -1,2 +1,2 @@
 # MachineLearning_Project-Capstone_BANGKIT2023
-This repo is for ML files that will have integrations upon main project
+This repo is for recommendation system files for BudgetIN app.
